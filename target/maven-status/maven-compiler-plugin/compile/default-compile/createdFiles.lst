@@ -10,6 +10,7 @@ com\porfolioWeb\Porfolio\repository\PersonaRepository.class
 com\porfolioWeb\Porfolio\model\Persona.class
 com\porfolioWeb\Porfolio\repository\HardSkillRepository.class
 com\porfolioWeb\Porfolio\model\Softskill.class
+com\porfolioWeb\Porfolio\WebConfig.class
 com\porfolioWeb\Porfolio\service\IProyectoService.class
 com\porfolioWeb\Porfolio\model\HardSkill.class
 com\porfolioWeb\Porfolio\repository\EducacionRepository.class
